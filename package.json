@@ -1,0 +1,19 @@
+{
+  "name": "sms-pda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^3.2.6",
+    "url": "^0.11.0"
+  }
+}
